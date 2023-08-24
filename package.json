@@ -1,0 +1,16 @@
+{
+  "name": "sitesights-tracking-library-nodejs",
+  "version": "1.0.0",
+  "description": "Detailed description on how to use it [here](https://docs.sitesights.io/server/js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SiteSights - Marvin Drude",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
